@@ -1,0 +1,14 @@
+Data migration from Postgres (On-Premises) to RDS MySQL using AWS Data migration service.
+Setting up and managing an RDS environment, covering the creation of security groups, RDS instances, and database migration tasks. 
+Connecting to RDS instances, executing database operations, creating replication instances in DMS, and setting up endpoints for RDS instances.
+Created two Security Groups for RDS Instances
+Created a RDS PostgreSQL Instance
+Created a RDS MySQL Instance
+Connecting to an Amazon PostgreSQL RDS Database on a DB Instance
+Created a Replication Instance in DMS
+Created a Source Endpoint in DMS
+Created a Target Endpoint in DMS
+Created a Database Migration Task
+Connected to an Amazon MySQL RDS Database on a DB Instance
+
+
